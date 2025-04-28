@@ -43,7 +43,6 @@ require_once '../inc/functions.php';
 // START OF YOUR CODE
 // ------------------------
 
-
 // ------------------------
 // END OF YOUR CODE
 // ------------------------

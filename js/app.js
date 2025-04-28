@@ -4,8 +4,8 @@ var exos = [
   {nav: '#3', title: 'Exo #3', file: 'exo3.php'},
   {nav: '#4', title: 'Exo #4', file: 'exo4.php'},
   {nav: '#5', title: 'Exo Bonus #5', file: 'exo5.php'},
-  {nav: '#6', title: 'Quiz #6', file: 'https://forms.gle/HtMnemPChVJeG6ju6'},
-  {nav: '#7', title: 'Exo Bonus #7', file: 'exo7.php'}
+  // {nav: '#6', title: 'Quiz #6', file: 'https://forms.gle/HtMnemPChVJeG6ju6'},
+  {nav: '#6', title: 'Exo Bonus #6', file: 'exo7.php'}
 ];
 
 var app = {
